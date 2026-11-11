@@ -1,0 +1,8 @@
+{
+  "name": "chau-phu-farmer-dashboard-public",
+  "private": true,
+  "version": "1.0.0",
+  "engines": {
+    "node": ">=20"
+  }
+}
